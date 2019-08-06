@@ -4,7 +4,7 @@ title: "Dan Fitz Blog"
 description: "Blogging platform for developer Dan Fitz"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "/Dan Fitz Blog"
+baseurl: ""
 google_analytics: ''
 disqus: 'danfitz'
 mailchimp-list: ''
