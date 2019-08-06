@@ -4,7 +4,7 @@ title:  "My Guide to Writing Good, Clean Code"
 author: dan
 categories: [coding thoughts]
 tags: [clean code, code organization, organization, opinion, writing, coding]
-image: "https://images.unsplash.com/photo-1557853197-aefb550b6fdc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80"
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
 description: "This blog post serves to clarify for myself (and future me) all the things I'd like to live up to when writing code in any programming language."
 featured: true
 toc: true
