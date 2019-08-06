@@ -1,13 +1,10 @@
 # Site
-name: "Dan Fitz Blog"
-title: "Dan Fitz Blog"
-description: "Blogging platform for developer Dan Fitz"
+name: "Dan Fitz"
+title: "Dan Fitz"
+description: "Blog posts about web development and life in general"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
-google_analytics: ''
-disqus: 'danfitz'
-mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
