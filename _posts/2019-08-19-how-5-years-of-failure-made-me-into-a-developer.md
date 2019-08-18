@@ -80,7 +80,7 @@ I learnt some of the most painful lessons about life and about myself in that ye
 The reason this experience mattered to my coding journey is that it put me in a position of brutal self-understanding. I kind of murdered my own naive, impatient optimism and replaced it with a more marathon-ready, grounded kind of optimism.
 
 
-## 5 The Pivot and Third Attempt
+## The Pivot and Third Attempt
 
 With some of these excruciating lessons burning in the back of my mind, I found myself one day repeatedly entering a state of deep immersion (or [flow](https://en.wikipedia.org/wiki/Flow_(psychology))) while building some of the websites for my business ideas.
 
@@ -106,7 +106,7 @@ Six months into my year-long business experiment, I pivoted to a new experiment:
 
 But, as you can guess by now, it didn’t work out exactly the way I wanted. Six months into my coding experiment, my motivation started to wane. It was hard to wake up every morning and just code in a vacuum. I also didn’t want to completely drain my finances, so I got another job.
 
-## The Job
+## The Job Where I Got to Code
 
 While still teaching myself code at home, I approached my new job with the goal of getting coding experience—even if my job title didn't include the word "developer". To do this, despite not feeling 100% confident about it, I explicitly told my employers that my aim was to become a developer. I wanted that to be clear from the beginning, so my employers knew how they could facilitate my growth within the company.
 
