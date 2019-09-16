@@ -4,7 +4,7 @@ title: "Dan Fitz"
 description: "Blog posts about web development and life in general"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
+baseurl: 'https://blog.danielfitz.com'
 google_analytics: 'UA-145432763-1'
 disqus: 'danfitz'
 include: ["_pages"]

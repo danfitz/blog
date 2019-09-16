@@ -4,7 +4,7 @@ title:  "How 5 Years of Failure Made Me into a Developer"
 author: dan
 categories: [stories]
 tags: [coding, personal growth]
-image: "/assets/images/how-5-years-of-failure-made-me-into-a-developer-1.jpg"
+image: "/assets/images/how-5-years-of-failure-made-me-into-a-developer-1-thumbnail.jpg"
 description: "In all its complexity, I want to share my story of how I grew to call coding one of my passions."
 featured: true
 toc: true
