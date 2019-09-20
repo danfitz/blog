@@ -4,7 +4,7 @@ title: "Dan Fitz"
 description: "Blog posts about web development and life in general"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://blog.danielfitz.com'
+baseurl: 'https://blog.danfitz.com'
 google_analytics: 'UA-145432763-1'
 disqus: 'danfitz'
 include: ["_pages"]
@@ -16,9 +16,9 @@ authors:
     name: Dan Fitz
     display_name: Dan Fitz
     gravatar: 3bf5217c9ca644feaab6ff3077f64f9d
-    email: dan.fitz@pm.me
-    web: https://blog.danielfitz.com
-    twitter: https://twitter.com/8danfitz8
+    email: dan@danfitz.com
+    web: https://blog.danfitz.com
+    twitter: https://twitter.com/_danfitz
     description: "Front-end Developer. Bootcamp student at hackerYou. Graduating Oct 2019."
 
 # Plugins
